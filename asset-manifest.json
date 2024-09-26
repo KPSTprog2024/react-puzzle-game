@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/KPSTprog2024/react-puzzle-game/static/css/main.f855e6bc.css",
-    "main.js": "/KPSTprog2024/react-puzzle-game/static/js/main.ea9f07d9.js",
+    "main.css": "/KPSTprog2024/react-puzzle-game/static/css/main.e6c13ad2.css",
+    "main.js": "/KPSTprog2024/react-puzzle-game/static/js/main.c5fe2f76.js",
     "static/js/453.ed3810f9.chunk.js": "/KPSTprog2024/react-puzzle-game/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/KPSTprog2024/react-puzzle-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/KPSTprog2024/react-puzzle-game/index.html",
-    "main.f855e6bc.css.map": "/KPSTprog2024/react-puzzle-game/static/css/main.f855e6bc.css.map",
-    "main.ea9f07d9.js.map": "/KPSTprog2024/react-puzzle-game/static/js/main.ea9f07d9.js.map",
+    "main.e6c13ad2.css.map": "/KPSTprog2024/react-puzzle-game/static/css/main.e6c13ad2.css.map",
+    "main.c5fe2f76.js.map": "/KPSTprog2024/react-puzzle-game/static/js/main.c5fe2f76.js.map",
     "453.ed3810f9.chunk.js.map": "/KPSTprog2024/react-puzzle-game/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ea9f07d9.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c5fe2f76.js"
   ]
 }
